@@ -10,3 +10,6 @@ git-filter-repo is a tool for rewriting git history.
 
 Always backup before rewriting history!
 
+### Warning
+
+Rewriting history can be destructive!
